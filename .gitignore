@@ -1,0 +1,10 @@
+# OS が作るファイル
+.DS_Store
+Thumbs.db
+
+# エディタが作るファイル
+.idea/
+.vscode/
+*.swp
+*~
+
